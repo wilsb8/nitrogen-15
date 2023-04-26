@@ -1,5 +1,6 @@
 body {
-  font-family: "poppins", sans-serif;
+  font-family: "poppins",
+ sans-serif;
   color: #101010;
   background-color: #ffffff;
 }
@@ -50,7 +51,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #fbac2e;
+  color: rgba(0, 102, 255, 0.979);
 }
 
 /*header section*/
@@ -231,7 +232,7 @@ a:focus {
   width: auto;
   height: auto;
   display: none;
-  color: #1b1b1b;
+  color: rgba(0, 102, 255, 0.979);
 }
 
 .slider_section .carousel-indicators li.active {
@@ -338,7 +339,7 @@ a:focus {
 }
 
 .service_section .detail-container .detail-box:hover, .service_section .detail-container .detail-box.active {
-  background-color: #fbac2e;
+  background-color: rgba(0, 102, 255, 0.979);
   cursor: pointer;
 }
 
@@ -580,7 +581,7 @@ a:focus {
 
 .logo_section .owl-carousel .owl-nav .owl-prev,
 .logo_section .owl-carousel .owl-nav .owl-next {
-  background-color: #000000;
+  background-color: rgba(0, 102, 255, 0.979);;
   width: 65px;
   height: 75px;
   outline: none;
@@ -937,7 +938,7 @@ a:focus {
   padding: 20px 0;
   margin: 0 auto;
   text-align: center;
-  border-top: 1.5px solid #fbac2e;
+  border-top: 1.5px solid rgba(0, 102, 255, 0.979);;
   width: 80%;
 }
 
